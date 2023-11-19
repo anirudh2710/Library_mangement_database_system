@@ -1,0 +1,274 @@
+author_id,authors,first_name,last_name,email_id,contact_num
+1,J.K. Rowling,J.K.,Rowling,J.K._Rowling@gmail.com,9994272756
+2,W. Frederick Zimmerman,W.,Frederick_Zimmerman,W._Frederick Zimmerman@gmail.com,9167964424
+3,Douglas Adams,Douglas,Adams,Douglas_Adams@gmail.com,8633432374
+4,Bill Bryson,Bill,Bryson,Bill_Bryson@gmail.com,8685964059
+5,J.R.R. Tolkien,J.R.R.,Tolkien,J.R.R._Tolkien@gmail.com,6375995014
+6,Jude Fisher,Jude,Fisher,Jude_Fisher@gmail.com,7019876624
+7,Gary Paulsen,Gary,Paulsen,Gary_Paulsen@gmail.com,6010929504
+8,Molly Hatchet,Molly,Hatchet,Molly_Hatchet@gmail.com,9450817972
+9,Dale Peck,Dale,Peck,Dale_Peck@gmail.com,7137842618
+10,Delia Sherman,Delia,Sherman,Delia_Sherman@gmail.com,8348942420
+11,Patricia A. McKillip,Patricia,A._McKillip,Patricia_A. McKillip@gmail.com,9136291360
+12,Zilpha Keatley Snyder,Zilpha,Keatley_Snyder,Zilpha_Keatley Snyder@gmail.com,9428840586
+13,Kate Horsley,Kate,Horsley,Kate_Horsley@gmail.com,8300138570
+14,Philippa Carr,Philippa,Carr,Philippa_Carr@gmail.com,5816841389
+15,Edward P. Jones,Edward,P._Jones,Edward_P. Jones@gmail.com,6246731304
+16,Satyajit Das,Satyajit,Das,Satyajit_Das@gmail.com,8796067445
+17,Mark Smylie,Mark,Smylie,Mark_Smylie@gmail.com,6152401197
+18,John McPhee,John,McPhee,John_McPhee@gmail.com,9212501670
+19,Wendy Wasserstein,Wendy,Wasserstein,Wendy_Wasserstein@gmail.com,8329513640
+20,Heidi Hayes Jacobs,Heidi,Hayes_Jacobs,Heidi_Hayes Jacobs@gmail.com,9446666487
+21,Heidi Boyd,Heidi,Boyd,Heidi_Boyd@gmail.com,6752984186
+22,Frank Herbert,Frank,Herbert,Frank_Herbert@gmail.com,8890127320
+23,Brian Herbert,Brian,Herbert,Brian_Herbert@gmail.com,6523468386
+24,Gary Russell,Gary,Russell,Gary_Russell@gmail.com,8575505899
+25,Bryce Courtenay,Bryce,Courtenay,Bryce_Courtenay@gmail.com,9905529579
+26,Dave Lakhani,Dave,Lakhani,Dave_Lakhani@gmail.com,8686006228
+27,Louis E. Catron,Louis,E._Catron,Louis_E. Catron@gmail.com,9126769238
+28,Adam Ginsberg,Adam,Ginsberg,Adam_Ginsberg@gmail.com,6177444395
+29,Marsha Collier,Marsha,Collier,Marsha_Collier@gmail.com,6157416987
+30,Julia Wilkinson,Julia,Wilkinson,Julia_Wilkinson@gmail.com,7780267918
+31,Ruby Ann Boxcar,Ruby,Ann_Boxcar,Ruby_Ann Boxcar@gmail.com,8296059148
+32,Rob Orsini,Rob,Orsini,Rob_Orsini@gmail.com,6994299129
+33,Gloria Goldreich,Gloria,Goldreich,Gloria_Goldreich@gmail.com,8352182003
+34,Anthony Thorlby,Anthony,Thorlby,Anthony_Thorlby@gmail.com,9449593883
+35,John Banville,John,Banville,John_Banville@gmail.com,9072032009
+36,Narendra Jadhav,Narendra,Jadhav,Narendra_Jadhav@gmail.com,7814790999
+37,Barry R. Cournoyer,Barry,R._Cournoyer,Barry_R. Cournoyer@gmail.com,5640194182
+38,Madeleine L'Engle,Madeleine,L'Engle,Madeleine_L'Engle@gmail.com,5975162441
+39,Tara MacCarthy,Tara,MacCarthy,Tara_MacCarthy@gmail.com,6023415133
+40,Cynthia Harrod-Eagles,Cynthia,Harrod-Eagles,Cynthia_Harrod-Eagles@gmail.com,5729352772
+41,Charles Todd,Charles,Todd,Charles_Todd@gmail.com,6705025093
+42,Daniel Abraham,Daniel,Abraham,Daniel_Abraham@gmail.com,9862844461
+43,Charles Willeford,Charles,Willeford,Charles_Willeford@gmail.com,7405973535
+44,Tom Wolfe,Tom,Wolfe,Tom_Wolfe@gmail.com,9790604658
+45,Quentin Blake,Quentin,Blake,Quentin_Blake@gmail.com,6574501885
+46,Henry Miller,Henry,Miller,Henry_Miller@gmail.com,6419045125
+47,Marguerite Duras,Marguerite,Duras,Marguerite_Duras@gmail.com,8618198973
+48,Robert Louis Stevenson,Robert,Louis_Stevenson,Robert_Louis Stevenson@gmail.com,8799844466
+49,Ralph Ginzburg,Ralph,Ginzburg,Ralph_Ginzburg@gmail.com,6922092822
+50,Dr. Seuss,Dr.,Seuss,Dr._Seuss@gmail.com,6876023589
+51,Debbie Raleigh,Debbie,Raleigh,Debbie_Raleigh@gmail.com,8070599109
+52,Kevin Henkes,Kevin,Henkes,Kevin_Henkes@gmail.com,7678420853
+53,Patrick Süskind,Patrick,Süskind,Patrick_Süskind@gmail.com,6698789888
+54,Robert A. Heinlein,Robert,A._Heinlein,Robert_A. Heinlein@gmail.com,7356497332
+55,Nick  Webb,Nick,_Webb,Nick_ Webb@gmail.com,6292372334
+56,Terry Jones,Terry,Jones,Terry_Jones@gmail.com,7842890837
+57,Harry G. Frankfurt,Harry,G._Frankfurt,Harry_G. Frankfurt@gmail.com,6005642171
+58,Nick Flynn,Nick,Flynn,Nick_Flynn@gmail.com,5728419230
+59,Garry Wills,Garry,Wills,Garry_Wills@gmail.com,8398457795
+60,Don DeLillo,Don,DeLillo,Don_DeLillo@gmail.com,7406747666
+61,Thomas Pynchon,Thomas,Pynchon,Thomas_Pynchon@gmail.com,5974020837
+62,Joan Didion,Joan,Didion,Joan_Didion@gmail.com,9598747824
+63,Paul Auster,Paul,Auster,Paul_Auster@gmail.com,8159775294
+64,Jared Diamond,Jared,Diamond,Jared_Diamond@gmail.com,8245732682
+65,Joseph A. Tainter,Joseph,A._Tainter,Joseph_A. Tainter@gmail.com,8241335514
+66,Robert D. Putnam,Robert,D._Putnam,Robert_D. Putnam@gmail.com,7321828210
+67,Philip K. Howard,Philip,K._Howard,Philip_K. Howard@gmail.com,9543430827
+68,Nikola Tesla,Nikola,Tesla,Nikola_Tesla@gmail.com,9795704222
+69,Carol Dommermuth-Costa,Carol,Dommermuth-Costa,Carol_Dommermuth-Costa@gmail.com,7622568746
+70,William Golding,William,Golding,William_Golding@gmail.com,6531091982
+71,Victor Davis Hanson,Victor,Davis_Hanson,Victor_Davis Hanson@gmail.com,9283161316
+72,Alice Sebold,Alice,Sebold,Alice_Sebold@gmail.com,8681070027
+73,Sharyn McCrumb,Sharyn,McCrumb,Sharyn_McCrumb@gmail.com,5767705692
+74,Elizabeth Castro,Elizabeth,Castro,Elizabeth_Castro@gmail.com,9590262256
+75,Chuck Klosterman,Chuck,Klosterman,Chuck_Klosterman@gmail.com,8898056625
+76,Jane Feather,Jane,Feather,Jane_Feather@gmail.com,6481007152
+77,Robert M. Pirsig,Robert,M._Pirsig,Robert_M. Pirsig@gmail.com,6003062347
+78,John Harold Haynes,John,Harold_Haynes,John_Harold Haynes@gmail.com,8229462196
+79,Ayn Rand,Ayn,Rand,Ayn_Rand@gmail.com,5695036048
+80,Colin  Wells,Colin,_Wells,Colin_ Wells@gmail.com,9371399039
+81,Billy Collins,Billy,Collins,Billy_Collins@gmail.com,9983052775
+82,Christopher Caswell,Christopher,Caswell,Christopher_Caswell@gmail.com,8816966534
+83,Kevin Trudeau,Kevin,Trudeau,Kevin_Trudeau@gmail.com,7101806077
+84,Anne Tyler,Anne,Tyler,Anne_Tyler@gmail.com,9547789942
+85,Philip Roth,Philip,Roth,Philip_Roth@gmail.com,8047992007
+86,Jon   Stewart,Jon,__Stewart,Jon_  Stewart@gmail.com,9411617321
+87,Brian Greene,Brian,Greene,Brian_Greene@gmail.com,5894422516
+88,H.G. Bissinger,H.G.,Bissinger,H.G._Bissinger@gmail.com,6538464264
+89,Neal Stephenson,Neal,Stephenson,Neal_Stephenson@gmail.com,8912984649
+90,Donald A. Norman,Donald,A._Norman,Donald_A. Norman@gmail.com,7372546211
+91,Robert   Harris,Robert,__Harris,Robert_  Harris@gmail.com,7472011899
+92,John Steinbeck,John,Steinbeck,John_Steinbeck@gmail.com,6175355800
+93,Neil Strauss,Neil,Strauss,Neil_Strauss@gmail.com,8515229944
+94,Ellen Raskin,Ellen,Raskin,Ellen_Raskin@gmail.com,7592065863
+95,Arthur Golden,Arthur,Golden,Arthur_Golden@gmail.com,8800539779
+96,Gary Chapman,Gary,Chapman,Gary_Chapman@gmail.com,9067556118
+97,Dan Brown,Dan,Brown,Dan_Brown@gmail.com,9778939218
+98,P.J. Parrish,P.J.,Parrish,P.J._Parrish@gmail.com,7912713824
+99,Napoleon Hill,Napoleon,Hill,Napoleon_Hill@gmail.com,6853513694
+100,Mike   Mason,Mike,__Mason,Mike_  Mason@gmail.com,7095493523
+101,Riki Anne Wilchins,Riki,Anne_Wilchins,Riki_Anne Wilchins@gmail.com,7308030149
+102,George S. Clason,George,S._Clason,George_S. Clason@gmail.com,8614979574
+103,David McCullough,David,McCullough,David_McCullough@gmail.com,8484767763
+104,Robert J. Allison,Robert,J._Allison,Robert_J. Allison@gmail.com,9017934836
+105,Pearl S. Buck,Pearl,S._Buck,Pearl_S. Buck@gmail.com,9923548665
+106,Rick Warren,Rick,Warren,Rick_Warren@gmail.com,9814700376
+107,Eric Schlosser,Eric,Schlosser,Eric_Schlosser@gmail.com,8687078779
+108,Lisa See,Lisa,See,Lisa_See@gmail.com,9010448183
+109,John Grisham,John,Grisham,John_Grisham@gmail.com,6916317261
+110,Robert A. Caro,Robert,A._Caro,Robert_A. Caro@gmail.com,6381404516
+111,Stephen W. Frey,Stephen,W._Frey,Stephen_W. Frey@gmail.com,9751403868
+112,Bill Phillips,Bill,Phillips,Bill_Phillips@gmail.com,6517331328
+113,Sarah Mlynowski,Sarah,Mlynowski,Sarah_Mlynowski@gmail.com,6528526594
+114,Michael   Lewis,Michael,__Lewis,Michael_  Lewis@gmail.com,9240564002
+115,Frank McConnell,Frank,McConnell,Frank_McConnell@gmail.com,7492492205
+116,Giada De Laurentiis,Giada,De_Laurentiis,Giada_De Laurentiis@gmail.com,8837371716
+117,Barry Eisler,Barry,Eisler,Barry_Eisler@gmail.com,8726061748
+118,Yann Martel,Yann,Martel,Yann_Martel@gmail.com,9256866953
+119,Robert Templer,Robert,Templer,Robert_Templer@gmail.com,6760613235
+120,James Frey,James,Frey,James_Frey@gmail.com,7397697129
+121,Python Bonkers,Python,Bonkers,Python_Bonkers@gmail.com,8726687076
+122,Donald T. Phillips,Donald,T._Phillips,Donald_T. Phillips@gmail.com,5836717070
+123,Gary Yukl,Gary,Yukl,Gary_Yukl@gmail.com,9092530111
+124,Rudolph W. Giuliani,Rudolph,W._Giuliani,Rudolph_W. Giuliani@gmail.com,6177419912
+125,John Gray,John,Gray,John_Gray@gmail.com,8984686176
+126,Jean M. Auel,Jean,M._Auel,Jean_M. Auel@gmail.com,7724516654
+127,Doug Walsh,Doug,Walsh,Doug_Walsh@gmail.com,8163426109
+128,Steven Pressfield,Steven,Pressfield,Steven_Pressfield@gmail.com,7941564636
+129,Thomas Harlan,Thomas,Harlan,Thomas_Harlan@gmail.com,5808809360
+130,Ed Roberson,Ed,Roberson,Ed_Roberson@gmail.com,6635184093
+131,Paul  Kirk,Paul,_Kirk,Paul_ Kirk@gmail.com,7408402208
+132,William Shakespeare,William,Shakespeare,William_Shakespeare@gmail.com,7421074456
+133,Paulo Coelho,Paulo,Coelho,Paulo_Coelho@gmail.com,7754715056
+134,Carla Lynn Stockton,Carla,Lynn_Stockton,Carla_Lynn Stockton@gmail.com,6805195680
+135,Cynthia W. Shelmerdine,Cynthia,W._Shelmerdine,Cynthia_W. Shelmerdine@gmail.com,7812742992
+136,Euripides,#VALUE!,#VALUE!,#VALUE!,8622649529
+137,Wole Soyinka,Wole,Soyinka,Wole_Soyinka@gmail.com,8114409616
+138,William Allan,William,Allan,William_Allan@gmail.com,9966318246
+139,Robert J. Milch,Robert,J._Milch,Robert_J. Milch@gmail.com,8739498931
+140,Simon Goldhill,Simon,Goldhill,Simon_Goldhill@gmail.com,8710183031
+141,W. John Campbell,W.,John_Campbell,W._John Campbell@gmail.com,8892405267
+142,Douglas M. MacDowell,Douglas,M._MacDowell,Douglas_M. MacDowell@gmail.com,7855728881
+143,Andrea Wilson Nightingale,Andrea,Wilson_Nightingale,Andrea_Wilson Nightingale@gmail.com,9096024975
+144,Mark Haddon,Mark,Haddon,Mark_Haddon@gmail.com,7153670628
+145,George Pelecanos,George,Pelecanos,George_Pelecanos@gmail.com,9330544909
+146,Annie Proulx,Annie,Proulx,Annie_Proulx@gmail.com,7142904308
+147,David    Allen,David,___Allen,David_   Allen@gmail.com,8815347932
+148,Geoffrey M. Bellman,Geoffrey,M._Bellman,Geoffrey_M. Bellman@gmail.com,8440056527
+149,Ricardo Piglia,Ricardo,Piglia,Ricardo_Piglia@gmail.com,5764106394
+150,Ernesto Sabato,Ernesto,Sabato,Ernesto_Sabato@gmail.com,7429428047
+151,Peter R.L. Brown,Peter,R.L._Brown,Peter_R.L. Brown@gmail.com,6217894813
+152,Henry Chadwick,Henry,Chadwick,Henry_Chadwick@gmail.com,8812580152
+153,Anthony Bourdain,Anthony,Bourdain,Anthony_Bourdain@gmail.com,5714402198
+154,Michael C.J. Putnam,Michael,C.J._Putnam,Michael_C.J. Putnam@gmail.com,6688554062
+155,Charles Segal,Charles,Segal,Charles_Segal@gmail.com,7153985707
+156,Daniel Pinchbeck,Daniel,Pinchbeck,Daniel_Pinchbeck@gmail.com,9779683751
+157,Jon Ronson,Jon,Ronson,Jon_Ronson@gmail.com,6122136887
+158,Daniel Duane,Daniel,Duane,Daniel_Duane@gmail.com,6745740999
+159,Jon Krakauer,Jon,Krakauer,Jon_Krakauer@gmail.com,6983472552
+160,John Eldredge,John,Eldredge,John_Eldredge@gmail.com,8486774808
+161,Jung Chang,Jung,Chang,Jung_Chang@gmail.com,7600188016
+162,Nelson DeMille,Nelson,DeMille,Nelson_DeMille@gmail.com,6191962199
+163,Catherine Coulter,Catherine,Coulter,Catherine_Coulter@gmail.com,6371754299
+164,Charles P. Rubenstein,Charles,P._Rubenstein,Charles_P. Rubenstein@gmail.com,8985300404
+165,Barbara Ehrenreich,Barbara,Ehrenreich,Barbara_Ehrenreich@gmail.com,5707494101
+166,Jane Austen,Jane,Austen,Jane_Austen@gmail.com,8198857034
+167,Thomas L. Friedman,Thomas,L._Friedman,Thomas_L. Friedman@gmail.com,6674909748
+168,Arthur J. Roth,Arthur,J._Roth,Arthur_J. Roth@gmail.com,8267692628
+169,Louisa May Alcott,Louisa,May_Alcott,Louisa_May Alcott@gmail.com,6840006927
+170,James B. Stewart,James,B._Stewart,James_B. Stewart@gmail.com,6697301871
+171,Julia Golding,Julia,Golding,Julia_Golding@gmail.com,7342007766
+172,Charles Dickens,Charles,Dickens,Charles_Dickens@gmail.com,6783226253
+173,Daniel Pool,Daniel,Pool,Daniel_Pool@gmail.com,9035363855
+174,Jane Smiley,Jane,Smiley,Jane_Smiley@gmail.com,8848229999
+175,Colleen Sexton,Colleen,Sexton,Colleen_Sexton@gmail.com,9087064208
+176,Philip Nel,Philip,Nel,Philip_Nel@gmail.com,8089843059
+177,Sean O'Brien,Sean,O'Brien,Sean_O'Brien@gmail.com,6249706375
+178,Radcliffe G. Edmonds III,Radcliffe,G._Edmonds_III,Radcliffe_G. Edmonds III@gmail.com,7575704169
+179,Paul Anthony Cartledge,Paul,Anthony_Cartledge,Paul_Anthony Cartledge@gmail.com,9109633335
+180,Raymond Chandler,Raymond,Chandler,Raymond_Chandler@gmail.com,7957442810
+181,Paul Murray,Paul,Murray,Paul_Murray@gmail.com,8535076750
+182,Patti   Davis,Patti,__Davis,Patti_  Davis@gmail.com,7673107725
+183,Daniel C. Dennett,Daniel,C._Dennett,Daniel_C. Dennett@gmail.com,7590811545
+184,Stephen Hawking,Stephen,Hawking,Stephen_Hawking@gmail.com,6950173088
+185,John Boslough,John,Boslough,John_Boslough@gmail.com,8429421771
+186,Phillip Glasier,Phillip,Glasier,Phillip_Glasier@gmail.com,9067171595
+187,Timothy Ferris,Timothy,Ferris,Timothy_Ferris@gmail.com,5907871870
+188,Jorge Cruise,Jorge,Cruise,Jorge_Cruise@gmail.com,8398226777
+189,Michael Cunningham,Michael,Cunningham,Michael_Cunningham@gmail.com,8885935322
+190,Malcolm Gladwell,Malcolm,Gladwell,Malcolm_Gladwell@gmail.com,8759741420
+191,Ted Dekker,Ted,Dekker,Ted_Dekker@gmail.com,8135973310
+192,Karen Joy Fowler,Karen,Joy_Fowler,Karen_Joy Fowler@gmail.com,8992978022
+193,Julian Barnes,Julian,Barnes,Julian_Barnes@gmail.com,8020634470
+194,Jeffrey Eugenides,Jeffrey,Eugenides,Jeffrey_Eugenides@gmail.com,6205876222
+195,Doris Kearns Goodwin,Doris,Kearns_Goodwin,Doris_Kearns Goodwin@gmail.com,6594639190
+196,Joseph J. Ellis,Joseph,J._Ellis,Joseph_J. Ellis@gmail.com,7680363596
+197,Ruth Westheimer,Ruth,Westheimer,Ruth_Westheimer@gmail.com,8903591625
+198,Jennifer Watson,Jennifer,Watson,Jennifer_Watson@gmail.com,9387861432
+199,David D. Burns,David,D._Burns,David_D. Burns@gmail.com,9938863499
+200,Mark Shepard,Mark,Shepard,Mark_Shepard@gmail.com,8683422669
+201,Stephen R. Covey,Stephen,R._Covey,Stephen_R. Covey@gmail.com,8371002882
+202,Dan Millman,Dan,Millman,Dan_Millman@gmail.com,6407908025
+203,Truman Capote,Truman,Capote,Truman_Capote@gmail.com,8275405885
+204,Margaret Truman,Margaret,Truman,Margaret_Truman@gmail.com,6674778791
+205,Steven Johnson,Steven,Johnson,Steven_Johnson@gmail.com,7334365757
+206,Iris Fry,Iris,Fry,Iris_Fry@gmail.com,6686061218
+207,Edith Wharton,Edith,Wharton,Edith_Wharton@gmail.com,8989724704
+208,Jeffery Deaver,Jeffery,Deaver,Jeffery_Deaver@gmail.com,9823414494
+209,Paul Yee,Paul,Yee,Paul_Yee@gmail.com,7150565234
+210,Edward F. Edinger,Edward,F._Edinger,Edward_F. Edinger@gmail.com,7543849239
+211,Julian Markels,Julian,Markels,Julian_Markels@gmail.com,5998179984
+212,Elizabeth A. Schultz,Elizabeth,A._Schultz,Elizabeth_A. Schultz@gmail.com,9493434450
+213,Steve Martini,Steve,Martini,Steve_Martini@gmail.com,8058462541
+214,Terry Pratchett,Terry,Pratchett,Terry_Pratchett@gmail.com,7698536712
+215,Susan  Griffith,Susan,_Griffith,Susan_ Griffith@gmail.com,8166544262
+216,Joseph McMoneagle,Joseph,McMoneagle,Joseph_McMoneagle@gmail.com,8274901739
+217,Umberto Eco,Umberto,Eco,Umberto_Eco@gmail.com,7058535877
+218,Henri J.M. Nouwen,Henri,J.M._Nouwen,Henri_J.M. Nouwen@gmail.com,7623875201
+219,Timothy B. Tyson,Timothy,B._Tyson,Timothy_B. Tyson@gmail.com,6107002734
+220,Kahlil Gibran,Kahlil,Gibran,Kahlil_Gibran@gmail.com,8007583339
+221,Jack Kerouac,Jack,Kerouac,Jack_Kerouac@gmail.com,5724187539
+222,Harper Lee,Harper,Lee,Harper_Lee@gmail.com,5647998630
+223,David H. Chilton,David,H._Chilton,David_H. Chilton@gmail.com,8299474468
+224,Jonathan Swift,Jonathan,Swift,Jonathan_Swift@gmail.com,7625680647
+225,Helen  Cooper,Helen,_Cooper,Helen_ Cooper@gmail.com,8601066941
+226,Geoffrey Chaucer,Geoffrey,Chaucer,Geoffrey_Chaucer@gmail.com,9895630210
+227,Mark Kurlansky,Mark,Kurlansky,Mark_Kurlansky@gmail.com,6812653265
+228,Monique Truong,Monique,Truong,Monique_Truong@gmail.com,9693325505
+229,Kim Stanley Robinson,Kim,Stanley_Robinson,Kim_Stanley Robinson@gmail.com,7480540566
+230,Philip Dutre,Philip,Dutre,Philip_Dutre@gmail.com,9611357479
+231,David Guterson,David,Guterson,David_Guterson@gmail.com,8709854439
+232,Dave Pelzer,Dave,Pelzer,Dave_Pelzer@gmail.com,9940751215
+233,Douglas Coupland,Douglas,Coupland,Douglas_Coupland@gmail.com,6873888395
+234,Howard Zinn,Howard,Zinn,Howard_Zinn@gmail.com,5717896793
+235,Richard Hollis,Richard,Hollis,Richard_Hollis@gmail.com,6918864013
+236,Lisa Lowe,Lisa,Lowe,Lisa_Lowe@gmail.com,8033141190
+237,Jonathan Hale,Jonathan,Hale,Jonathan_Hale@gmail.com,6851927171
+238,David Bodanis,David,Bodanis,David_Bodanis@gmail.com,7229444455
+239,Friedrich Nietzsche,Friedrich,Nietzsche,Friedrich_Nietzsche@gmail.com,8039634699
+240,Alastair Lamb,Alastair,Lamb,Alastair_Lamb@gmail.com,9713074979
+241,Katherine Paterson,Katherine,Paterson,Katherine_Paterson@gmail.com,7191147286
+242,Tanya Huff,Tanya,Huff,Tanya_Huff@gmail.com,7183872881
+243,Tracy Chevalier,Tracy,Chevalier,Tracy_Chevalier@gmail.com,6871678771
+244,Rosalind Laker,Rosalind,Laker,Rosalind_Laker@gmail.com,6309214698
+245,Tite Kubo,Tite,Kubo,Tite_Kubo@gmail.com,5953092695
+246,Valerie Parv,Valerie,Parv,Valerie_Parv@gmail.com,6794036702
+247,Daniel Defoe,Daniel,Defoe,Daniel_Defoe@gmail.com,8958958876
+248,Mark Twain,Mark,Twain,Mark_Twain@gmail.com,9011619678
+249,James Hilton,James,Hilton,James_Hilton@gmail.com,6033821110
+250,Nancy Friday,Nancy,Friday,Nancy_Friday@gmail.com,7585724857
+251,Frances Hodgson Burnett,Frances,Hodgson_Burnett,Frances_Hodgson Burnett@gmail.com,7391865239
+252,Ann Thwaite,Ann,Thwaite,Ann_Thwaite@gmail.com,7087498922
+253,Thomas Sowell,Thomas,Sowell,Thomas_Sowell@gmail.com,9537195642
+254,Alcoholics Anonymous,Alcoholics,Anonymous,Alcoholics_Anonymous@gmail.com,8674731730
+255,Overeaters Anonymous,Overeaters,Anonymous,Overeaters_Anonymous@gmail.com,7641691963
+256,Andrew Weil,Andrew,Weil,Andrew_Weil@gmail.com,8790210233
+257,Lawrence M. Lasher,Lawrence,M._Lasher,Lawrence_M. Lasher@gmail.com,6477994415
+258,Elizabeth von Arnim,Elizabeth,von_Arnim,Elizabeth_von Arnim@gmail.com,8770857547
+259,E.M. Forster,E.M.,Forster,E.M._Forster@gmail.com,5883272781
+260,P.N. Furbank,P.N.,Furbank,P.N._Furbank@gmail.com,7239811910
+261,Robert Hellenga,Robert,Hellenga,Robert_Hellenga@gmail.com,6742673722
+262,Gordon S. Wood,Gordon,S._Wood,Gordon_S. Wood@gmail.com,9311182829
+263,Gordon Korman,Gordon,Korman,Gordon_Korman@gmail.com,6273140854
+264,Deborah  Gordon,Deborah,_Gordon,Deborah_ Gordon@gmail.com,6574103849
+265,Jean Estoril,Jean,Estoril,Jean_Estoril@gmail.com,6163819630
+266,Alan Brennert,Alan,Brennert,Alan_Brennert@gmail.com,9093564864
+267,Eric Jensen,Eric,Jensen,Eric_Jensen@gmail.com,6445683569
+268,Isabel Allende,Isabel,Allende,Isabel_Allende@gmail.com,6446468038
+269,Steve Krug,Steve,Krug,Steve_Krug@gmail.com,9411349877
+270,Louis de Bernières,Louis,de_Bernières,Louis_de Bernières@gmail.com,7229345515
+271,Lawrence Otis Graham,Lawrence,Otis_Graham,Lawrence_Otis Graham@gmail.com,6896051682
+272,Colleen McCullough,Colleen,McCullough,Colleen_McCullough@gmail.com,6035569612
+273,Mitch Albom,Mitch,Albom,Mitch_Albom@gmail.com,6078812685
